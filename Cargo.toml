@@ -1,0 +1,13 @@
+[package]
+name = "hotkey-parser"
+version = "0.1.0"
+edition = "2021"
+authors = ["Luca Xiang <luca.xiang@outlook.com>"]
+description = "A hotkey parser library"
+license = "mit"
+keywords = ["hotkey", "hotkey-utils", "hotkey-parser", "shortcut-key", "shortcut-key-parser"]
+categories = ["Parser implementations", "Parsing tools", "Accessibility", "Configuration"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
